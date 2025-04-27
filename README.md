@@ -10,7 +10,7 @@ A web-based blogging platform designed to display posts in reverse chronological
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript
+- HTML, CSS
 - Bootstrap
 - Python Flask Framework
 - SQLite Database
